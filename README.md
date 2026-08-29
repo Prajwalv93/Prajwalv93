@@ -1,4 +1,4 @@
-## Hi there <img src="https://gstatic.com" alt="Blob Wave Static" width="40" height="40">
+## Hi there blob-raise-hand-gif.gif
 
 
 
