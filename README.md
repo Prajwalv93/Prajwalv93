@@ -1,4 +1,5 @@
-## Hi there <img src="https://gstatic.com" alt="Blob Wave" width="40" height="40">
+## Hi there <img src="https://gstatic.com" alt="Blob Wave Static" width="40" height="40">
+
 
 
 <!--
