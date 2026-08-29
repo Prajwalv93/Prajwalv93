@@ -7,7 +7,6 @@ I also build pipelines with Python and GitHub Actions to make workflows reliable
 
 This profile is where I upload projects, experiments, and hands‑on labs that help me sharpen my DevOps skills. Everything here is built step‑by‑step, no shortcuts.
 
----
 
 ## Tools & Tech
 - AWS, Docker, Kubernetes, Terraform  
@@ -15,7 +14,6 @@ This profile is where I upload projects, experiments, and hands‑on labs that h
 - Prometheus & Grafana for monitoring  
 - VS Code, Postman, GitHub  
 
----
 
 ## A Bit About Me
 - ⚡ Passionate about myself
